@@ -1,0 +1,154 @@
+{"message":"Something failed during startup","stack":"Error: Something failed during startup\n    at Object.<anonymous> (/Users/jeettan/Desktop/Vidly-MoshProj/index.js:18:7)\n    at Module._compile (node:internal/modules/cjs/loader:1469:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)\n    at Module.load (node:internal/modules/cjs/loader:1288:32)\n    at Module._load (node:internal/modules/cjs/loader:1104:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","level":"error","timestamp":"2026-01-29T12:09:46.007Z"}
+{"message":"Something failed during startup","stack":"Error: Something failed during startup\n    at Object.<anonymous> (/Users/jeettan/Desktop/Vidly-MoshProj/index.js:18:7)\n    at Module._compile (node:internal/modules/cjs/loader:1469:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)\n    at Module.load (node:internal/modules/cjs/loader:1288:32)\n    at Module._load (node:internal/modules/cjs/loader:1104:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","level":"error","timestamp":"2026-01-29T12:09:50.284Z"}
+{"message":"This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason \"undefined\".","stack":"UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason \"undefined\".\n    at throwUnhandledRejectionsMode (node:internal/process/promises:389:7)\n    at processPromiseRejections (node:internal/process/promises:470:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:96:32)","code":"ERR_UNHANDLED_REJECTION","name":"UnhandledPromiseRejection","level":"error","timestamp":"2026-01-29T12:10:55.533Z"}
+{"message":"Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (/Users/jeettan/Desktop/Vidly-MoshProj/index.js:18:26)\n    at Module._compile (node:internal/modules/cjs/loader:1469:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)\n    at Module.load (node:internal/modules/cjs/loader:1288:32)\n    at Module._load (node:internal/modules/cjs/loader:1104:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","level":"error","timestamp":"2026-01-29T12:11:00.407Z"}
+{"message":"Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (/Users/jeettan/Desktop/Vidly-MoshProj/index.js:18:26)\n    at Module._compile (node:internal/modules/cjs/loader:1469:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)\n    at Module.load (node:internal/modules/cjs/loader:1288:32)\n    at Module._load (node:internal/modules/cjs/loader:1104:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","level":"error","timestamp":"2026-01-29T12:11:51.098Z"}
+{"message":"Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (/Users/jeettan/Desktop/Vidly-MoshProj/index.js:18:26)\n    at Module._compile (node:internal/modules/cjs/loader:1469:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)\n    at Module.load (node:internal/modules/cjs/loader:1288:32)\n    at Module._load (node:internal/modules/cjs/loader:1104:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","level":"error","timestamp":"2026-01-29T12:11:52.769Z"}
+{"message":"Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (/Users/jeettan/Desktop/Vidly-MoshProj/index.js:18:26)\n    at Module._compile (node:internal/modules/cjs/loader:1469:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)\n    at Module.load (node:internal/modules/cjs/loader:1288:32)\n    at Module._load (node:internal/modules/cjs/loader:1104:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","level":"error","timestamp":"2026-01-29T12:12:07.289Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-29T14:01:41.423Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-29T14:01:42.857Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-29T14:08:41.296Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T15:50:03.372Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T15:50:51.513Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T15:50:56.191Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T16:30:02.172Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T17:49:34.703Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T17:52:54.054Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T17:53:28.154Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T17:57:39.657Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1234\" (type string) at path \"_id\" for model \"Genre\"","timestamp":"2026-01-30T17:57:39.741Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T17:58:51.442Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1234\" (type string) at path \"_id\" for model \"Genre\"","timestamp":"2026-01-30T17:58:51.528Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T17:59:23.715Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2026-01-30T17:59:23.800Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:01:21.037Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2026-01-30T18:01:21.142Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:01:40.911Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2026-01-30T18:01:40.995Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:02:54.676Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2026-01-30T18:02:54.763Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:06:17.720Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Genre\"","timestamp":"2026-01-30T18:06:17.809Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:06:49.618Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Genre\"","timestamp":"2026-01-30T18:06:49.698Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:07:37.493Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Genre\"","timestamp":"2026-01-30T18:07:37.577Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:08:08.550Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:08:38.364Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:09:25.995Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:09:51.971Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:11:12.369Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:11:24.724Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:12:05.482Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"3475\" (type string) at path \"_id\" for model \"Genre\"","timestamp":"2026-01-30T18:12:05.570Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:12:52.907Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2026-01-30T18:12:53.001Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:20:32.378Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:39:42.997Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:43:43.382Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:44:26.933Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:44:59.287Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:46:44.442Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:52:11.154Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:56:18.548Z"}
+{"level":"error","message":"Joi is not defined","timestamp":"2026-01-30T18:56:18.681Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:56:41.863Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T18:58:45.256Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:01:04.045Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:01:22.345Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:03:03.724Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:04:29.159Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:04:54.483Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:06:47.640Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:07:23.921Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:08:15.274Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:09:06.737Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:09:59.905Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:10:28.075Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:13:50.204Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:18:35.067Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:19:31.378Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:20:00.313Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:20:01.368Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:20:14.508Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:20:19.269Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:22:41.286Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:22:43.958Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:22:45.583Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:22:49.295Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:22:50.388Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:23:11.030Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:23:16.281Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:23:18.598Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:23:37.175Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:24:26.775Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:24:59.108Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-30T19:25:22.365Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:23:49.668Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:24:16.603Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:25:08.424Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:26:16.089Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:43:16.250Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:43:41.583Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:43:58.254Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:43:58.389Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:56:12.587Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:56:12.612Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:59:43.143Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T08:59:43.198Z"}
+{"level":"info","message":"App is listening at 3100","timestamp":"2026-01-31T09:01:25.345Z"}
+{"level":"info","message":"App is listening at 3100","timestamp":"2026-01-31T09:01:25.358Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:12:23.043Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:13:23.208Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:13:23.223Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:13:29.471Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:13:29.625Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:14:25.798Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:14:25.869Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:16:38.885Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:16:38.914Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:26:41.699Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:26:42.211Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:28:27.607Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:28:27.619Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:29:25.069Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:29:25.081Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:31:34.708Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:32:34.805Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:32:34.852Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:33:00.768Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:33:00.820Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:33:44.255Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:33:44.308Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:35:23.384Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:35:23.396Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:35:35.252Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:35:35.313Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:35:46.663Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:35:46.717Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:37:18.617Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:37:18.662Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:37:33.347Z"}
+{"level":"info","message":"App is listening at 3000","timestamp":"2026-01-31T09:37:33.412Z"}
+{"level":"error","message":"Joi.validate is not a function","timestamp":"2026-01-31T16:26:13.452Z"}
+{"level":"error","message":"Invalid message options","timestamp":"2026-01-31T16:27:24.503Z"}
+{"level":"error","message":"Unexpected non-whitespace character after JSON at position 112","timestamp":"2026-01-31T16:38:28.426Z"}
+{"level":"error","message":"Unexpected non-whitespace character after JSON at position 111","timestamp":"2026-01-31T16:39:03.843Z"}
+{"level":"error","message":"Unexpected non-whitespace character after JSON at position 111","timestamp":"2026-01-31T16:39:14.862Z"}
+{"level":"error","message":"Unexpected non-whitespace character after JSON at position 111","timestamp":"2026-01-31T16:39:40.832Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:41:56.340Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:43:14.403Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:43:38.941Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:43:46.210Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:44:05.595Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:44:55.105Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:45:25.844Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:46:39.767Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:47:49.214Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:48:08.886Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:48:27.605Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:48:37.397Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'findById')","timestamp":"2026-01-31T16:49:46.548Z"}
+{"level":"error","message":"Client must be connected before running operations","timestamp":"2026-01-31T17:36:49.322Z"}
+{"level":"error","message":"Client must be connected before running operations","timestamp":"2026-01-31T17:37:13.114Z"}
+{"level":"error","message":"Client must be connected before running operations","timestamp":"2026-01-31T17:38:04.329Z"}
